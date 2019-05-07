@@ -17,7 +17,7 @@ $ npm install
 * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 * [Sakila Database](https://dev.mysql.com/doc/sakila/en/sakila-installation.html)
 
-### Testing
+## Testing
 ```
 $ npm test
 ```
