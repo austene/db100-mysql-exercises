@@ -12,8 +12,7 @@ Clone Respository
 ```
 $ npm install
 ```
-2. 
-Download & Install
+2. Download & Install
 * [MySQL Community Edition](https://dev.mysql.com/downloads/mysql/)
 * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 * [Sakila Database](https://dev.mysql.com/doc/sakila/en/sakila-installation.html)
